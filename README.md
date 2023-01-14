@@ -2,7 +2,7 @@
 
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Patrickyyh&skills=JavaScript,Java,TypeScript,C++,JSON,CSS,HTML&show-other-skills=true"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Patrickyyh&skills=JavaScript,Java,TypeScript,C++,JSON,CSS,HTML&show-other-skills=false&bg=#000000"
 />
 <!--
 **Patrickyyh/Patrickyyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
