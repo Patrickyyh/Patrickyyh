@@ -1,5 +1,9 @@
 ### Hi there 👋
-https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YOUR_USERNAME
+
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Patrickyyh&skills=JavaScript,TypeScript&show-other-skills=true"
+/>
 <!--
 **Patrickyyh/Patrickyyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
